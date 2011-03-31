@@ -1,0 +1,5 @@
+﻿
+A simple python extraction utility to split the given set of apache logging files to the respective types.
+
+
+Pass the apache logging files as  command line arguments
